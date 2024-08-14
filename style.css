@@ -9,3 +9,12 @@ body{
     background-color: aliceblue;
     padding: 20px;
 }
+.descricao{
+text-align: center;
+margin-bottom: 2em;
+}
+.secao{
+    max-width: 1200px;
+    margin: 0auto;
+box-shadow: 0 0 10px rgb(red, green, blue, alpha);
+}
