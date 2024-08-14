@@ -29,7 +29,6 @@ body {
 .texto {
     flex: 1;
     padding-right: 20px;
-    align-self: center;
     padding-left: 2em;
 }
 
@@ -45,6 +44,8 @@ body {
 .imagem{
     flex: 1;
     text-align: center;
+    align-self: center;
+
 }
 
 .imagem img {
