@@ -39,9 +39,9 @@ padding: 10px;
     flex: 1;
     text-align: center;
 }
-.imagem img{
+.img{
     max-width: 100%;
     height: auto;
     border-radius: 8px;
-    margin: 20px 0;
+  
 }
