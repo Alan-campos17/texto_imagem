@@ -36,11 +36,7 @@ padding: 10px;
    line-height:  2em; 
 }
 
-.img{
-    max-width: 50%;
-    height: auto;
-    border-radius: 8px;
-}
+
 .img{
     width: 100%;
     height: 200px;
