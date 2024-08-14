@@ -43,7 +43,8 @@ body {
 }
 
 .imagem{
-
+    flex: 1;
+    text-align: center;
 }
 .imagem img {
     width: 10%;
